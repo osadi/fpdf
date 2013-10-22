@@ -1,0 +1,8 @@
+{
+    "name": "osadi/fpdf",
+    "autoload": {
+        "psr-0" : {
+            "FPDF" : "src"
+        }
+    }
+}
